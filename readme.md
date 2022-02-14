@@ -67,7 +67,7 @@ Layout=
 
 If you want to change settings in kde system settings, you should install package `fcitx5-kcm-git`.
 
-### Fcitx5-skin-simple-blue
+### Fcitx5-skin-neo-dark
 First, clone the repo to `~/.local/shre/fcitx5/themes/`
 
 ```bash
@@ -88,7 +88,7 @@ Also better use `one-line` mode for the theme and don't use vertical input.</br>
 
 **Every time you change the settings please reload fcitx5**
 
-Thanks to the help of Csslayer and oldherl from Archlinux CN.
+Many thanks to the help of Csslayer and oldherl from Archlinux CN.
 
 
 ## License
