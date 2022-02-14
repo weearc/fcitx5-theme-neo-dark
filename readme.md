@@ -5,7 +5,7 @@ A simple theme for fcitx5 better used under system-wide light theme.
 ## Screenshot
 
 - InputMethod Change Content</br>
-![image-20220215000122203](/home/ddqi/git/fcitx5-skin/neo-dark/screenshot/input.png)</br>
+![image-20220215000122203](screenshot/input.png)</br>
 
 - Wide Panel Horizontal</br>
 ![Content](screenshot/h.png)</br>
