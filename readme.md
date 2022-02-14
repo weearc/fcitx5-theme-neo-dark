@@ -1,17 +1,17 @@
-# simple blue
+# Neo dark
 
-A simple theme for fcitx5 modified from [Simple](https://github.com/iovxw/fcitx5-simple-theme) and [Fcitx5 Default](https://github.com/fcitx/fcitx5).
+A simple theme for fcitx5 better used under system-wide light theme.
 
 ## Screenshot
 
 - InputMethod Change Content</br>
-![Content](screenshot/screenshot-content.png)</br>
+![image-20220215000122203](/home/ddqi/git/fcitx5-skin/neo-dark/screenshot/input.png)</br>
 
-- Input Horizontal</br>
-![horizontal](screenshot/screenshot-input.png)</br>
+- Wide Panel Horizontal</br>
+![Content](screenshot/h.png)</br>
 
-- Input Vertial</br>
-![vertical](screenshot/screenshot-input-vertical.png)</br>
+- Thin Panel Horizontal</br>
+![horizontal](screenshot/h2.png)<br>
 
 ## Install
 ### Fcitx5
@@ -71,7 +71,7 @@ If you want to change settings in kde system settings, you should install packag
 First, clone the repo to `~/.local/shre/fcitx5/themes/`
 
 ```bash
-git clone https://github.com/weearc/fcitx5-skin-simple-blue.git  ~/.local/share/fcitx5/themes/simple-blue
+git clone https://github.com/weearc/fcitx5-theme-neo-dark  ~/.local/share/fcitx5/themes/neo-dark
 ```
 
 Add the following to your `~/.config/fcitx5/conf/classicui.conf`
@@ -79,10 +79,17 @@ Add the following to your `~/.config/fcitx5/conf/classicui.conf`
 ```ini
 # True, if you want a vertical candidate list
 Vertical Candidate List=False
-Theme=simple-blue
+Theme=neo-dark
 ```
 
+Your may choose wide or thin panel with the combination for ` input_panel.png & theme-wide.conf` or `input_panel-thin.png & theme-thin.conf` and rename them to `input_panel.png ` and `theme.conf`.</br>
+
+Also better use `one-line` mode for the theme and don't use vertical input.</br>
+
 **Every time you change the settings please reload fcitx5**
+
+Thanks to the help of Csslayer and oldherl from Archlinux CN.
+
 
 ## License
 

@@ -37,9 +37,9 @@
      fit-margin-bottom="10"
      lock-margins="false"
      inkscape:snap-global="true"
-     inkscape:zoom="4"
-     inkscape:cx="105.375"
-     inkscape:cy="48"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="83.350212"
+     inkscape:cy="139.12326"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -140,15 +140,6 @@
          stdDeviation="0.029828202"
          id="feGaussianBlur6150-5" />
     </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4381"
-       id="linearGradient4090"
-       gradientUnits="userSpaceOnUse"
-       x1="-48.901592"
-       y1="-34.493099"
-       x2="-48.901592"
-       y2="-28.968712" />
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -174,24 +165,11 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter4253"
-       x="-0.04738628"
-       y="-0.34747542"
-       width="1.0947726"
-       height="1.6949508">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.81427401"
-         id="feGaussianBlur4255" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
        id="filter4253-6"
-       x="-0.04738628"
-       y="-0.34747542"
-       width="1.0947726"
-       height="1.6949508">
+       x="-0.012537653"
+       y="-0.097361077"
+       width="1.0250753"
+       height="1.1947222">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.81427401"
@@ -205,13 +183,160 @@
        x1="-48.901592"
        y1="-34.493099"
        x2="-48.901592"
+       y2="-28.968712"
+       gradientTransform="matrix(-3.7795276,0,0,3.7795276,-88.36597,223.53792)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4381"
+       id="linearGradient4090-6"
+       gradientUnits="userSpaceOnUse"
+       x1="-48.901592"
+       y1="-34.493099"
+       x2="-48.901592"
+       y2="-28.968712" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4253-3"
+       x="-0.04738628"
+       y="-0.34747542"
+       width="1.0947726"
+       height="1.6949508">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81427401"
+         id="feGaussianBlur4255-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4253-6-2"
+       x="-0.012537653"
+       y="-0.097361077"
+       width="1.0250753"
+       height="1.1947222">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81427401"
+         id="feGaussianBlur4255-0-7" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4381"
+       id="linearGradient1360"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.7795276,0,0,3.7795276,-88.36597,223.53792)"
+       x1="-48.901592"
+       y1="-34.493099"
+       x2="-48.901592"
+       y2="-28.968712" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4253-6-2-6"
+       x="-0.012537653"
+       y="-0.097361077"
+       width="1.0250753"
+       height="1.1947222">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81427401"
+         id="feGaussianBlur4255-0-7-0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4381"
+       id="linearGradient1427"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.7795276,0,0,3.7795276,-88.36597,223.53792)"
+       x1="-48.901592"
+       y1="-34.493099"
+       x2="-48.901592"
+       y2="-28.968712" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4253-6-2-8"
+       x="-0.012537653"
+       y="-0.097361077"
+       width="1.0250753"
+       height="1.1947222">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81427401"
+         id="feGaussianBlur4255-0-7-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4253-6-2-6-2"
+       x="-0.012537653"
+       y="-0.097361077"
+       width="1.0250753"
+       height="1.1947222">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81427401"
+         id="feGaussianBlur4255-0-7-0-0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4381"
+       id="linearGradient1586"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.7795276,0,0,3.7795276,-88.36597,223.53792)"
+       x1="-48.901592"
+       y1="-34.493099"
+       x2="-48.901592"
+       y2="-28.968712" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4381"
+       id="linearGradient1588"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.7795276,0,0,3.7795276,-88.36597,223.53792)"
+       x1="-48.901592"
+       y1="-34.493099"
+       x2="-48.901592"
+       y2="-28.968712" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4253-6-2-8-2"
+       x="-0.012537653"
+       y="-0.097361077"
+       width="1.0250753"
+       height="1.1947222">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.81427401"
+         id="feGaussianBlur4255-0-7-7-8" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4381"
+       id="linearGradient1656"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-3.7795276,0,0,3.7795276,-88.36597,223.53792)"
+       x1="-48.901592"
+       y1="-34.493099"
+       x2="-48.901592"
        y2="-28.968712" />
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="图层 2"
-     transform="translate(8.2761665,8.0747619)" />
+     transform="translate(8.2761665,8.0747619)">
+    <rect
+       style="opacity:0.970312;fill:#ffffff;fill-opacity:1;stroke-width:0.568161;stroke-linejoin:round;stroke-dasharray:4.5453, 4.5453"
+       id="rect881-3"
+       width="59.078907"
+       height="20.28377"
+       x="47.019478"
+       y="1.262988"
+       ry="0.85140622" />
+  </g>
   <g
      inkscape:label="图层 1"
      inkscape:groupmode="layer"
@@ -230,34 +355,79 @@
        x="-68.017723"
        y="-34.518604"
        ry="0.21833406"
-       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/simple-black/input_panel1.png"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/neo-dark/input_panel1.png"
        inkscape:export-xdpi="1199.973"
        inkscape:export-ydpi="1199.973"
        transform="scale(-1)" />
     <rect
-       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient4090);fill-opacity:1;stroke-width:1.53346;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253)"
+       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient4090-6);fill-opacity:1;stroke-width:1.53346;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253-3)"
+       id="rect2162-9-2-62"
+       width="41.241001"
+       height="5.6241608"
+       x="-68.019272"
+       y="-34.517754"
+       ry="0.21833406"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/simple-black/input_panel1.png"
+       inkscape:export-xdpi="1199.973"
+       inkscape:export-ydpi="1199.973"
+       transform="rotate(180,-4.8352453,-5.1608809)" />
+    <path
+       id="rect2162-9-2-6"
+       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient4537);fill-opacity:1;stroke-width:5.79575;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253-6)"
+       d="m 13.667969,93.076172 c -0.457161,0 -0.824219,0.369011 -0.824219,0.826172 V 113.14844 H 168.71484 V 93.902344 c 0,-0.457161 -0.36901,-0.826172 -0.82617,-0.826172 z"
+       transform="matrix(0.26458333,0,0,0.26458333,23.341585,12.37965)" />
+    <path
+       id="rect2162-9-2-6-0"
+       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient1360);fill-opacity:1;stroke-width:5.79575;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253-6-2)"
+       d="m 13.667969,93.076172 c -0.457161,0 -0.824219,0.369011 -0.824219,0.826172 V 113.14844 H 168.71484 V 93.902344 c 0,-0.457161 -0.36901,-0.826172 -0.82617,-0.826172 z"
+       transform="matrix(0.26434328,0,0,-0.28433418,23.419089,61.066412)"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/neo-dark/input_panel1.png"
+       inkscape:export-xdpi="1199.973"
+       inkscape:export-ydpi="1199.973" />
+    <path
+       id="rect2162-9-2-6-0-6"
+       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient1427);fill-opacity:1;stroke-width:5.79575;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253-6-2-6)"
+       d="m 13.667969,93.076172 c -0.457161,0 -0.824219,0.369011 -0.824219,0.826172 V 113.14844 H 168.71484 V 93.902344 c 0,-0.457161 -0.36901,-0.826172 -0.82617,-0.826172 z"
+       transform="matrix(0.26434328,0,0,0.28433418,23.419089,2.3466354)"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/neo-dark/input_panel1.png"
+       inkscape:export-xdpi="1199.973"
+       inkscape:export-ydpi="1199.973" />
+    <rect
+       style="opacity:0.98;fill:#353535;fill-opacity:1;stroke-width:1.19921;stroke-linejoin:round;stroke-dashoffset:75"
        id="rect2162-9-2"
        width="41.241001"
-       height="5.6241608"
-       x="-68.019272"
-       y="-34.517754"
-       ry="0.21833406"
-       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/simple-black/input_panel1.png"
+       height="3.4395833"
+       x="-58.735649"
+       y="-53.611294"
+       ry="0.13352716"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/neo-dark/input_panel1.png"
        inkscape:export-xdpi="1199.973"
        inkscape:export-ydpi="1199.973"
-       transform="rotate(180,-7.7438354e-4,4.2533875e-4)" />
-    <rect
-       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient4537);fill-opacity:1;stroke-width:1.53346;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253-6)"
-       id="rect2162-9-2-6"
-       width="41.241001"
-       height="5.6241608"
-       x="-68.019272"
-       y="-34.517754"
-       ry="0.21833406"
-       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/simple-black/input_panel1.png"
+       transform="scale(-1)" />
+    <path
+       id="rect2162-9-2-6-0-3"
+       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient1586);fill-opacity:1;stroke-width:5.79575;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253-6-2-8)"
+       d="m 13.667969,93.076172 c -0.457161,0 -0.824219,0.369011 -0.824219,0.826172 V 113.14844 H 168.71484 V 93.902344 c 0,-0.457161 -0.36901,-0.826172 -0.82617,-0.826172 z"
+       transform="matrix(0.26586662,0,0,-0.17138743,13.880005,69.563931)"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/neo-dark/input_panel1.png"
        inkscape:export-xdpi="1199.973"
-       inkscape:export-ydpi="1199.973"
-       transform="matrix(-1,0,0,1,-0.00154877,63.412197)" />
+       inkscape:export-ydpi="1199.973" />
+    <path
+       id="rect2162-9-2-6-0-3-9"
+       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient1656);fill-opacity:1;stroke-width:5.79575;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253-6-2-8-2)"
+       d="m 13.667969,93.076172 c -0.457161,0 -0.824219,0.369011 -0.824219,0.826172 V 113.14844 H 168.71484 V 93.902344 c 0,-0.457161 -0.36901,-0.826172 -0.82617,-0.826172 z"
+       transform="matrix(0.26586662,0,0,0.17138743,13.880005,34.219073)"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/neo-dark/input_panel1.png"
+       inkscape:export-xdpi="1199.973"
+       inkscape:export-ydpi="1199.973" />
+    <path
+       id="rect2162-9-2-6-0-6-7"
+       style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient1588);fill-opacity:1;stroke-width:5.79575;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4253-6-2-6-2)"
+       d="m 13.667969,93.076172 c -0.457161,0 -0.824219,0.369011 -0.824219,0.826172 V 113.14844 H 168.71484 V 93.902344 c 0,-0.457161 -0.36901,-0.826172 -0.82617,-0.826172 z"
+       transform="matrix(0.26434328,0,0,0.28433418,13.870336,32.870816)"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/neo-dark/input_panel1.png"
+       inkscape:export-xdpi="1199.973"
+       inkscape:export-ydpi="1199.973" />
     <rect
        style="opacity:0.98;mix-blend-mode:screen;fill:url(#linearGradient4250);fill-opacity:1;stroke-width:1.53346;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter4092-2)"
        id="rect2162-9-2-0"
