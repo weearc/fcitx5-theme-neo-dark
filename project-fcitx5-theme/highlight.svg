@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23.96875mm"
+   height="22.645834mm"
+   viewBox="0 0 23.96875 22.645834"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="highlight.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="39.752659"
+     inkscape:cy="43.442873"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="71.122013,12.444863"
+       orientation="0,-1"
+       id="guide868" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7184">
+      <stop
+         style="stop-color:#707070;stop-opacity:1;"
+         offset="0"
+         id="stop7180" />
+      <stop
+         style="stop-color:#707070;stop-opacity:0;"
+         offset="1"
+         id="stop7182" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7184"
+       id="radialGradient7186"
+       cx="43.722683"
+       cy="63.495937"
+       fx="43.722683"
+       fy="63.495937"
+       r="1.984375"
+       gradientTransform="matrix(2.2585659,0,0,1.4150458,-55.02788,-26.353722)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7384"
+       x="-0.0032569999"
+       y="-0.004885303"
+       width="1.006514"
+       height="1.0097706">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.0053857073"
+         id="feGaussianBlur7386" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7384-6"
+       x="-0.11629158"
+       y="-0.17443738"
+       width="1.2325832"
+       height="1.3488748">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.19230509"
+         id="feGaussianBlur7386-2" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.738308,-52.173019)">
+    <rect
+       style="opacity:0.970312;mix-blend-mode:normal;fill:url(#radialGradient7186);fill-opacity:1;fill-rule:nonzero;stroke-width:0.84754;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter7384)"
+       id="rect866"
+       height="2.6458333"
+       x="41.738308"
+       y="62.173019"
+       ry="0.032332052"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/simple-black/highlight.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="matrix(0.22753673,0,0,0.65130899,33.312717,22.514199)"
+       width="3.96859" />
+    <rect
+       style="opacity:0.692223;mix-blend-mode:normal;fill:#bbbbbb;fill-opacity:1;fill-rule:nonzero;stroke-width:0.84754;stroke-linejoin:round;stroke-dashoffset:75;filter:url(#filter7384-6)"
+       id="rect866-9"
+       width="3.96875"
+       height="2.6458333"
+       x="41.738308"
+       y="62.173019"
+       ry="0.031542618"
+       inkscape:export-filename="/home/ddqi/git/fcitx5-skin/simple-black/highlight.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="matrix(0.22990171,0,0,0.58293371,33.209278,26.845577)" />
+  </g>
+</svg>
